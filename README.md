@@ -2,13 +2,24 @@
  <div>
    <a href="https://github.com/ruanmoreira">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruanmoreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanmoreira&layout=compact&langs_count=6&theme=tokyonight"/>
-
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanmoreira&layout=compact&theme=tokyonight"/>
 </div>
+ <br>
+ 
+  ### Stack
+ 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="HTML" height="50" width="68" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="50" width="68" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Js" height="50" width="68" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="Ts" height="50" width="68" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
+ <img align="center" alt="React" height="50" width="68" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+ <img align="center" alt="Node" height="50" width="68" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
+ <img align="center" alt="Java" height="50" width="68" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+ <img align="center" alt="Spring" height="50" width="68" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+ <img align="center" alt="Postgre" height="50" width="68" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+ <img align="center" alt="MySQL" height="50" width="68" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+ 
 </div>
  
  <br>
