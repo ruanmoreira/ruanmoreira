@@ -1,4 +1,3 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
 
  <div>
    <a href="https://github.com/ruanmoreira">
@@ -14,7 +13,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Contato
  
 <div> 
   <a href = "ruaanmoreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
