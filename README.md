@@ -1,8 +1,8 @@
 
  <div>
    <a href="https://github.com/ruanmoreira">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruanmoreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanmoreira&layout=compact&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruanmoreira&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanmoreira&theme=tokyonight&layout=compact"/>
 </div>
  <br>
  
